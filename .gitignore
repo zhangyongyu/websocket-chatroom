@@ -8,3 +8,5 @@ misc/
 guavm.json
 
 setup.sh
+
+*.pyc
